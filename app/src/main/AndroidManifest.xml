@@ -4,8 +4,7 @@
     <application
         android:label="MQ Bully"
         android:icon="@android:mipmap/sym_def_app_icon"
-        android:theme="@android:style/Theme.Material.Light.NoActionBar"
-        android:debuggable="true">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true">
